@@ -1,6 +1,6 @@
 {
   "name": "melloc01-test-npm-publish",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "Rafael Mello Campanari",
     "email": "lab.rafamello@gmail.com",
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "https://github.com/melloc01/test-npm-publish"
   },
-  "main": "./js/core/index.js",
+  "main": "js/core/index.js",
   "files": [
-    "./js/core/index.js"
+    "js/core/index.js"
   ]
 }
