@@ -12,7 +12,6 @@
   },
   "main": "js/core/index.js",
   "files": [
-    "js/core",
-    "should-not-be-on-npm"
+    "js/core"
   ]
 }
